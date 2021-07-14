@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T21:13:36.464Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="yGKRGAL2gV0OZoqtCwyV" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-14T21:14:39.898Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="qC9RQbJ8f5sS-6Pm_thV" version="14.8.6" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1902" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -49,19 +49,19 @@
         <mxCell id="F9yd2dMqK8Vk7KA25jul-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F9yd2dMqK8Vk7KA25jul-6" target="F9yd2dMqK8Vk7KA25jul-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1125" y="150" />
+              <mxPoint x="1070" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="F9yd2dMqK8Vk7KA25jul-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F9yd2dMqK8Vk7KA25jul-6" target="F9yd2dMqK8Vk7KA25jul-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1125" y="338" />
+              <mxPoint x="1070" y="338" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="F9yd2dMqK8Vk7KA25jul-6" value="Internal Load Balancer" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.classic_load_balancer;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="193" width="69" height="72" as="geometry" />
+          <mxGeometry x="1035" y="193" width="69" height="72" as="geometry" />
         </mxCell>
         <mxCell id="F9yd2dMqK8Vk7KA25jul-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="F9yd2dMqK8Vk7KA25jul-7" target="F9yd2dMqK8Vk7KA25jul-9">
           <mxGeometry relative="1" as="geometry" />
@@ -69,58 +69,58 @@
         <mxCell id="F9yd2dMqK8Vk7KA25jul-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="F9yd2dMqK8Vk7KA25jul-7" target="F9yd2dMqK8Vk7KA25jul-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1313" y="220" />
-              <mxPoint x="1570" y="220" />
+              <mxPoint x="1258" y="220" />
+              <mxPoint x="1515" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="F9yd2dMqK8Vk7KA25jul-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="F9yd2dMqK8Vk7KA25jul-7" target="F9yd2dMqK8Vk7KA25jul-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1313" y="70" />
-              <mxPoint x="1690" y="70" />
-              <mxPoint x="1690" y="460" />
+              <mxPoint x="1258" y="70" />
+              <mxPoint x="1635" y="70" />
+              <mxPoint x="1635" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="F9yd2dMqK8Vk7KA25jul-7" value="DocShare Microservice" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.application_server_green;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="130" width="46" height="56" as="geometry" />
+          <mxGeometry x="1235" y="130" width="46" height="56" as="geometry" />
         </mxCell>
         <mxCell id="F9yd2dMqK8Vk7KA25jul-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="F9yd2dMqK8Vk7KA25jul-8" target="F9yd2dMqK8Vk7KA25jul-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1390" y="338" />
-              <mxPoint x="1390" y="158" />
+              <mxPoint x="1335" y="338" />
+              <mxPoint x="1335" y="158" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="F9yd2dMqK8Vk7KA25jul-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="F9yd2dMqK8Vk7KA25jul-8" target="F9yd2dMqK8Vk7KA25jul-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1470" y="366" />
-              <mxPoint x="1470" y="220" />
-              <mxPoint x="1570" y="220" />
+              <mxPoint x="1415" y="366" />
+              <mxPoint x="1415" y="220" />
+              <mxPoint x="1515" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="F9yd2dMqK8Vk7KA25jul-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="F9yd2dMqK8Vk7KA25jul-8" target="F9yd2dMqK8Vk7KA25jul-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1313" y="452" />
+              <mxPoint x="1258" y="452" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="F9yd2dMqK8Vk7KA25jul-8" value="DocShare Microservice" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.application_server_green;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="310" width="46" height="56" as="geometry" />
+          <mxGeometry x="1235" y="310" width="46" height="56" as="geometry" />
         </mxCell>
         <mxCell id="F9yd2dMqK8Vk7KA25jul-9" value="Box API" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.cloud;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="123" width="120" height="70" as="geometry" />
+          <mxGeometry x="1475" y="123" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="F9yd2dMqK8Vk7KA25jul-10" value="AFCU DB" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.oracleDataCenter;fillColor=#ffffff;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1529" y="245" width="82.29" height="95" as="geometry" />
+          <mxGeometry x="1474" y="245" width="82.29" height="95" as="geometry" />
         </mxCell>
         <mxCell id="F9yd2dMqK8Vk7KA25jul-11" value="Exchange Server" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.ms_exchange;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="430" width="44.8" height="44.8" as="geometry" />
+          <mxGeometry x="1495" y="430" width="44.8" height="44.8" as="geometry" />
         </mxCell>
         <mxCell id="F9yd2dMqK8Vk7KA25jul-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F9yd2dMqK8Vk7KA25jul-27" target="F9yd2dMqK8Vk7KA25jul-28">
           <mxGeometry relative="1" as="geometry" />
